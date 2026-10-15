@@ -1,4 +1,3 @@
-
 window.runTerminateSequence = function() {
     const commandInput = document.getElementById("commandinput");
     const commandOutput = document.getElementById("commandoutput");
